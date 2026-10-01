@@ -478,7 +478,8 @@ The final solution includes the SQL data architecture, governed data-quality fra
 
 ## 🔐 Data Disclaimer
 
-All data used in this project is entirely synthetic and was created solely for portfolio, learning, and demonstration purposes. No real employee, employer, HRIS, compensation, compliance, or confidential business data is included. Employee records, organizational structures, workforce metrics, data-quality exceptions, and reporting activity are fictional and were designed to simulate realistic People Analytics and HR reporting scenarios.
+All data used in this entirely synthetic and was created solely for portfolio, learning, and demonstration purposes. No real employee, employer, HRIS, compensation, compliance, or confidential business data is included. Employee records, organizational structures, workforce metrics, data-quality exceptions, and reporting activity are fictional and were designed to simulate realistic People Analytics and HR reporting scenarios.
+
 ---
 
 ## 👤 Author
