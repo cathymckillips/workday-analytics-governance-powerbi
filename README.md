@@ -452,19 +452,19 @@ Trust in the dashboard begins much earlier in the data lifecycle.
 # Dashboard Pages
 
 ## Workforce Executive Overview
-![Workforce Executive Overview](images/Page_1.png)
+![Workforce Executive Overview](Images/Page_1.png)
 
 ## Workforce Movement & Reconciliation
-![Workforce Movement & Reconciliation](images/Page_2.png)
+![Workforce Movement & Reconciliation](Images/Page_2.png)
 
 ## Compliance
-![Compliance](images/Page_3.png)
+![Compliance](Images/Page_3.png)
 
 ## Data Quality & Governance
-![Data Quality & Governance](images/Page_4.png)
+![Data Quality & Governance](Images/Page_4.png)
 
 ## Reporting Operations
-![Reporting Operations](images/Page_5.png)
+![Reporting Operations](Images/Page_5.png)
 
 ---
 
