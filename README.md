@@ -473,3 +473,18 @@ Trust in the dashboard begins much earlier in the data lifecycle.
 **Complete**
 
 The final solution includes the SQL data architecture, governed data-quality framework, reporting logic, Power BI semantic model, DAX measures, compliance transformation, reporting controls, and five-page Power BI report.
+
+---
+
+## 🔐 Data Disclaimer
+
+All data used in this project is entirely synthetic and was created solely for portfolio, learning, and demonstration purposes. No real employee, employer, HRIS, compensation, compliance, or confidential business data is included. Employee records, organizational structures, workforce metrics, data-quality exceptions, and reporting activity are fictional and were designed to simulate realistic People Analytics and HR reporting scenarios.
+---
+
+## 👤 Author
+
+**Catherine McKillips**
+
+Business Intelligence / Data Analyst
+
+
