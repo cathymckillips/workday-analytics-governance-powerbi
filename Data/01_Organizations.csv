@@ -1,0 +1,13 @@
+Department_ID,Department_Name,Cost_Center,Supervisory_Organization,Business_Unit,Active_Flag
+D001,Finance,CC100,Corporate,BU01,Y
+D002,People & Culture,CC110,Corporate,BU01,Y
+D003,Information Technology,CC120,Corporate,BU01,Y
+D004,Operations,CC200,Operations,BU02,Y
+D005,Customer Success,CC210,Operations,BU02,Y
+D006,Sales,CC300,Commercial,BU03,Y
+D007,Marketing,CC310,Commercial,BU03,Y
+D008,Product,CC400,Product & Technology,BU04,Y
+D009,Data & Analytics,CC410,Product & Technology,BU04,Y
+D010,Legal & Compliance,CC500,Corporate,BU01,Y
+D011,Clinical Programs,CC600,Programs,BU05,Y
+D012,Member Services,CC610,Programs,BU05,Y

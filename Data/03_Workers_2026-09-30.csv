@@ -1,0 +1,241 @@
+Employee_ID,Worker_Type,First_Name,Last_Name,Work_Email,Hire_Date,Termination_Date,Employment_Status,Position_ID,Manager_ID,Department_ID,Location,FTE,Job_Profile_ID,Extract_As_Of_Date,Source_System,Last_Updated_Timestamp
+E10001,Employee,Taylor,Howard,employee10001@northstar.example,2017-02-08,,Active,P00001,,D001,Remote-US,1,JP001,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10002,Employee,Cameron,Owens,employee10002@northstar.example,2018-03-15,,Active,P00002,,D002,"Atlanta, GA",1,JP002,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10003,Employee,Alex,Bennett,employee10003@northstar.example,2019-04-22,,Active,P00003,,D003,"Chicago, IL",1,JP003,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10004,Contingent Worker,Quinn,Irwin,employee10004@northstar.example,2020-05-04,,Active,P00004,,D004,"Dallas, TX",1,JP004,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10005,Employee,Emerson,Patel,employee10005@northstar.example,2021-06-11,,Active,P00005,,D005,"Denver, CO",1,JP005,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10006,Employee,Dakota,Carter,employee10006@northstar.example,2022-07-18,,Active,P00006,,D006,"Orlando, FL",1,JP006,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10007,Employee,Jordan,Johnson,employee10007@northstar.example,2023-08-25,,Active,P00007,,D007,Remote-US,1,JP007,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10008,Employee,Riley,Quinn,employee10008@northstar.example,2024-09-07,,Active,P00008,,D008,"Atlanta, GA",1,JP008,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10009,Employee,Parker,Diaz,employee10009@northstar.example,2025-10-14,,Active,P00009,,D009,"Chicago, IL",1,JP009,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10010,Employee,Jamie,Kim,employee10010@northstar.example,2016-11-21,,Active,P00010,,D010,"Dallas, TX",1,JP010,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10011,Employee,Reese,Rivera,employee10011@northstar.example,2017-12-03,,Active,P00011,,D011,"Denver, CO",1,JP011,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10012,Employee,Rowan,Evans,employee10012@northstar.example,2018-01-10,,Active,P00012,,D012,"Orlando, FL",1,JP012,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10013,Employee,Robin,Lewis,employee10013@northstar.example,2019-02-17,,Active,P00013,E10001,D001,Remote-US,1,JP013,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10014,Employee,Morgan,Stewart,employee10014@northstar.example,2020-03-24,,Active,P00014,E10002,D002,"Atlanta, GA",1,JP014,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10015,Contingent Worker,Casey,Foster,employee10015@northstar.example,2021-04-06,,Active,P00015,E10003,D003,"Chicago, IL",1,JP015,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10016,Employee,Sydney,Mitchell,employee10016@northstar.example,2022-05-13,,Active,P00016,E10004,D004,"Dallas, TX",1,JP016,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10017,Employee,Drew,Turner,employee10017@northstar.example,2023-06-20,,Active,P00017,E10005,D005,"Denver, CO",0.5,JP017,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10018,Employee,Hayden,Garcia,employee10018@northstar.example,2024-07-02,,Active,P00018,E10006,D006,"Orlando, FL",1,JP018,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10019,Employee,Skyler,Nelson,employee10019@northstar.example,2025-08-09,,Active,P00019,E10007,D007,Remote-US,1,JP019,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10020,Employee,Avery,Adams,employee10020@northstar.example,2016-09-16,,Active,P00020,E10008,D008,"Atlanta, GA",1,JP020,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10021,Contingent Worker,Taylor,Howard,employee10021@northstar.example,2017-10-23,,Active,P00021,E10009,D009,"Chicago, IL",1,JP021,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10022,Employee,Cameron,Owens,employee10022@northstar.example,2018-11-05,,Active,P00022,E10010,D010,"Dallas, TX",1,JP022,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10023,Employee,Alex,Bennett,employee10023@northstar.example,2019-12-12,,Active,P00023,E10011,D011,"Denver, CO",1,JP023,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10024,Contingent Worker,Quinn,Irwin,employee10024@northstar.example,2020-01-19,,Active,P00024,E10012,D012,"Orlando, FL",1,JP024,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10025,Employee,Emerson,Patel,employee10025@northstar.example,2021-02-01,,Active,P00025,E10001,D001,Remote-US,1,JP025,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10026,Contingent Worker,Dakota,Carter,employee10026@northstar.example,2022-03-08,,Active,P00026,E10002,D002,"Atlanta, GA",1,JP026,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10027,Employee,Jordan,Johnson,employee10027@northstar.example,2023-04-15,,Active,P00027,E10003,D003,"Chicago, IL",1,JP027,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10028,Contingent Worker,Riley,Quinn,employee10028@northstar.example,2024-05-22,,Active,P00028,E10004,D004,"Dallas, TX",1,JP028,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10029,Employee,Parker,Diaz,employee10029@northstar.example,2025-06-04,,Active,P00029,E10005,D005,"Denver, CO",1,JP029,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10030,Employee,Jamie,Kim,employee10030@northstar.example,2016-07-11,,Active,P00030,E10006,D006,"Orlando, FL",1,JP030,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10031,Employee,Reese,Rivera,employee10031@northstar.example,2017-08-18,,Active,P00031,E10007,D007,Remote-US,1,JP031,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10032,Employee,Rowan,Evans,employee10032@northstar.example,2018-09-25,,Active,P00032,E10008,D008,"Atlanta, GA",1,JP032,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10033,Employee,Robin,Lewis,employee10033@northstar.example,2019-10-07,,Active,P00033,E10009,D009,"Chicago, IL",1,JP033,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10034,Employee,Morgan,Stewart,employee10034@northstar.example,2020-11-14,,Active,P00034,E10010,D010,"Dallas, TX",0.5,JP034,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10035,Contingent Worker,Casey,Foster,employee10035@northstar.example,2021-12-21,,Active,P00035,E10011,D011,"Denver, CO",1,JP035,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10036,Contingent Worker,Sydney,Mitchell,employee10036@northstar.example,2022-01-03,,Active,P00036,E10012,D012,"Orlando, FL",1,JP036,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10037,Employee,Drew,Turner,employee10037@northstar.example,2023-02-10,,Active,P00037,E10001,D001,Remote-US,1,JP037,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10038,Employee,Hayden,Garcia,employee10038@northstar.example,2024-03-17,,Active,P00038,E10002,D002,"Atlanta, GA",1,JP038,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10039,Employee,Skyler,Nelson,employee10039@northstar.example,2025-04-24,,Active,P00039,E10003,D003,"Chicago, IL",1,JP039,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10040,Employee,Avery,Adams,employee10040@northstar.example,2016-05-06,,Active,P00040,E10004,D004,"Dallas, TX",1,JP040,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10041,Employee,Taylor,Howard,employee10041@northstar.example,2017-06-13,,Active,P00041,E10005,D005,"Denver, CO",1,JP041,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10042,Employee,Cameron,Owens,employee10042@northstar.example,2018-07-20,,Active,P00042,E10006,D006,"Orlando, FL",1,JP042,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10043,Employee,Alex,Bennett,employee10043@northstar.example,2019-08-02,,Active,P00043,E10007,D007,Remote-US,1,JP043,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10044,Employee,Quinn,Irwin,employee10044@northstar.example,2020-09-09,,Active,P00044,E10008,D008,"Atlanta, GA",1,JP044,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10045,Employee,Emerson,Patel,employee10045@northstar.example,2021-10-16,,Active,P00045,E10009,D009,"Chicago, IL",1,JP045,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10046,Employee,Dakota,Carter,employee10046@northstar.example,2022-11-23,,Active,P00046,E10010,D010,"Dallas, TX",1,JP046,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10047,Employee,Jordan,Johnson,employee10047@northstar.example,2023-12-05,,Active,P00047,E10011,D011,"Denver, CO",1,JP047,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10048,Employee,Riley,Quinn,employee10048@northstar.example,2024-01-12,,Active,P00048,E10012,D012,"Orlando, FL",1,JP048,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10049,Employee,Parker,Diaz,employee10049@northstar.example,2025-02-19,,Active,P00049,E10001,D001,Remote-US,1,JP001,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10050,Employee,Jamie,Kim,employee10050@northstar.example,2016-03-01,,Active,P00050,E10002,D002,"Atlanta, GA",1,JP002,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10051,Employee,Reese,Rivera,employee10051@northstar.example,2017-04-08,,Active,P00051,E10003,D003,"Chicago, IL",0.5,JP003,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10052,Employee,Rowan,Evans,employee10052@northstar.example,2018-05-15,,Active,P00052,E10004,D004,"Dallas, TX",1,JP004,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10053,Employee,Robin,Lewis,employee10053@northstar.example,2019-06-22,,Active,P00053,E10005,D005,"Denver, CO",1,JP005,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10054,Employee,Morgan,Stewart,employee10054@northstar.example,2020-07-04,,Active,P00054,E10006,D006,"Orlando, FL",1,JP006,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10055,Employee,Casey,Foster,employee10055@northstar.example,2021-08-11,,Active,P00055,E10007,D007,Remote-US,1,JP007,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10056,Employee,Sydney,Mitchell,employee10056@northstar.example,2022-09-18,,Active,P00056,E10008,D008,"Atlanta, GA",1,JP008,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10057,Employee,Drew,Turner,employee10057@northstar.example,2023-10-25,,Active,P00057,E10009,D009,"Chicago, IL",1,JP009,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10058,Employee,Hayden,Garcia,employee10058@northstar.example,2024-11-07,,Active,P00058,E10010,D010,"Dallas, TX",1,JP010,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10059,Contingent Worker,Skyler,Nelson,employee10059@northstar.example,2025-12-14,,Active,P00059,E10011,D011,"Denver, CO",1,JP011,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10060,Employee,Avery,Adams,employee10060@northstar.example,2016-01-21,,Active,P00060,E10012,D012,"Orlando, FL",1,JP012,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10061,Employee,Taylor,Howard,employee10061@northstar.example,2017-02-03,,Active,P00061,E10001,D001,Remote-US,1,JP013,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10062,Contingent Worker,Cameron,Owens,employee10062@northstar.example,2018-03-10,,Active,P00062,E10002,D002,"Atlanta, GA",1,JP014,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10063,Contingent Worker,Alex,Bennett,employee10063@northstar.example,2019-04-17,,Active,P00063,E10003,D003,"Chicago, IL",1,JP015,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10064,Employee,Quinn,Irwin,employee10064@northstar.example,2020-05-24,,Active,P00064,E10004,D004,"Dallas, TX",1,JP016,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10065,Employee,Emerson,Patel,employee10065@northstar.example,2021-06-06,,Active,P00065,E10005,D005,"Denver, CO",1,JP017,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10066,Employee,Dakota,Carter,employee10066@northstar.example,2022-07-13,,Active,P00066,E10006,D006,"Orlando, FL",1,JP018,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10067,Employee,Jordan,Johnson,employee10067@northstar.example,2023-08-20,,Active,P00067,E10007,D007,Remote-US,1,JP019,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10068,Employee,Riley,Quinn,employee10068@northstar.example,2024-09-02,,Active,P00068,E10008,D008,"Atlanta, GA",0.5,JP020,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10069,Employee,Parker,Diaz,employee10069@northstar.example,2025-10-09,,Active,P00069,E10009,D009,"Chicago, IL",1,JP021,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10070,Employee,Jamie,Kim,employee10070@northstar.example,2016-11-16,,Active,P00070,E10010,D010,"Dallas, TX",1,JP022,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10071,Employee,Reese,Rivera,employee10071@northstar.example,2017-12-23,,Active,P00071,E10011,D011,"Denver, CO",1,JP023,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10072,Employee,Rowan,Evans,employee10072@northstar.example,2018-01-05,,Active,P00072,E10012,D012,"Orlando, FL",1,JP024,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10073,Employee,Robin,Lewis,employee10073@northstar.example,2019-02-12,,Active,P00073,E10001,D001,Remote-US,1,JP025,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10074,Employee,Morgan,Stewart,employee10074@northstar.example,2020-03-19,,Active,P00074,E10002,D002,"Atlanta, GA",1,JP026,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10075,Employee,Casey,Foster,employee10075@northstar.example,2021-04-01,,Active,P00075,E10003,D003,"Chicago, IL",1,JP027,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10076,Employee,Sydney,Mitchell,employee10076@northstar.example,2022-05-08,,Active,P00076,E10004,D004,"Dallas, TX",1,JP028,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10077,Contingent Worker,Drew,Turner,employee10077@northstar.example,2023-06-15,,Active,P00077,E10005,D005,"Denver, CO",1,JP029,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10078,Employee,Hayden,Garcia,employee10078@northstar.example,2024-07-22,,Active,P00078,E10006,D006,"Orlando, FL",1,JP030,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10079,Employee,Skyler,Nelson,employee10079@northstar.example,2025-08-04,,Active,P00079,E10007,D007,Remote-US,1,JP031,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10080,Employee,Avery,Adams,employee10080@northstar.example,2016-09-11,,Active,P00080,E10008,D008,"Atlanta, GA",1,JP032,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10081,Employee,Taylor,Howard,employee10081@northstar.example,2017-10-18,,Active,P00081,E10009,D009,"Chicago, IL",1,JP033,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10082,Employee,Cameron,Owens,employee10082@northstar.example,2018-11-25,,Active,P00082,E10010,D010,"Dallas, TX",1,JP034,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10083,Employee,Alex,Bennett,employee10083@northstar.example,2019-12-07,,Active,P00083,E10011,D011,"Denver, CO",1,JP035,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10084,Employee,Quinn,Irwin,employee10084@northstar.example,2020-01-14,,Active,P00084,E10012,D012,"Orlando, FL",1,JP036,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10085,Contingent Worker,Emerson,Patel,employee10085@northstar.example,2021-02-21,,Active,P00085,E10001,D001,Remote-US,0.5,JP037,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10086,Employee,Dakota,Carter,employee10086@northstar.example,2022-03-03,,Active,P00086,E10002,D002,"Atlanta, GA",1,JP038,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10087,Employee,Jordan,Johnson,employee10087@northstar.example,2023-04-10,,Active,P00087,E10003,D003,"Chicago, IL",1,JP039,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10088,Contingent Worker,Riley,Quinn,employee10088@northstar.example,2024-05-17,,Active,P00088,E10004,D004,"Dallas, TX",1,JP040,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10089,Employee,Parker,Diaz,employee10089@northstar.example,2025-06-24,,Active,P00089,E10005,D005,"Denver, CO",1,JP041,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10090,Employee,Jamie,Kim,employee10090@northstar.example,2016-07-06,,Active,P00090,E10006,D006,"Orlando, FL",1,JP042,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10091,Contingent Worker,Reese,Rivera,employee10091@northstar.example,2017-08-13,,Active,P00091,E10007,D007,Remote-US,1,JP043,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10092,Employee,Rowan,Evans,employee10092@northstar.example,2018-09-20,,Active,P00092,E10008,D008,"Atlanta, GA",1,JP044,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10093,Contingent Worker,Robin,Lewis,employee10093@northstar.example,2019-10-02,,Active,P00093,E10009,D009,"Chicago, IL",1,JP045,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10094,Employee,Morgan,Stewart,employee10094@northstar.example,2020-11-09,,Active,P00094,E10010,D010,"Dallas, TX",1,JP046,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10095,Employee,Casey,Foster,employee10095@northstar.example,2021-12-16,,Active,P00095,E10011,D011,"Denver, CO",1,JP047,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10096,Employee,Sydney,Mitchell,employee10096@northstar.example,2022-01-23,,Active,P00096,E10012,D012,"Orlando, FL",1,JP048,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10097,Employee,Drew,Turner,employee10097@northstar.example,2023-02-05,,Active,P00097,E10001,D001,Remote-US,1,JP001,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10098,Contingent Worker,Hayden,Garcia,employee10098@northstar.example,2024-03-12,,Active,P00098,E10002,D002,"Atlanta, GA",1,JP002,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10099,Employee,Skyler,Nelson,employee10099@northstar.example,2025-04-19,,Active,P00099,E10003,D003,"Chicago, IL",1,JP003,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10100,Employee,Avery,Adams,employee10100@northstar.example,2016-05-01,,Active,P00100,E10004,D004,"Dallas, TX",1,JP004,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10101,Employee,Taylor,Howard,employee10101@northstar.example,2017-06-08,,Active,P00101,E10005,D005,"Denver, CO",1,JP005,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10102,Employee,Cameron,Owens,employee10102@northstar.example,2018-07-15,,Active,P00102,E10006,D006,"Orlando, FL",0.5,JP006,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10103,Employee,Alex,Bennett,employee10103@northstar.example,2019-08-22,,Active,P00103,E10007,D007,Remote-US,1,JP007,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10104,Employee,Quinn,Irwin,employee10104@northstar.example,2020-09-04,,Active,P00104,E10008,D008,"Atlanta, GA",1,JP008,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10105,Employee,Emerson,Patel,employee10105@northstar.example,2021-10-11,,Active,P00105,E10009,D009,"Chicago, IL",1,JP009,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10106,Employee,Dakota,Carter,employee10106@northstar.example,2022-11-18,,Active,P00106,E10010,D010,"Dallas, TX",1,JP010,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10107,Employee,Jordan,Johnson,employee10107@northstar.example,2023-12-25,,Active,P00107,E10011,D011,"Denver, CO",1,JP011,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10108,Employee,Riley,Quinn,employee10108@northstar.example,2024-01-07,,Active,P00108,E10012,D012,"Orlando, FL",1,JP012,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10109,Contingent Worker,Parker,Diaz,employee10109@northstar.example,2025-02-14,,Active,P00109,E10001,D001,Remote-US,1,JP013,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10110,Employee,Jamie,Kim,employee10110@northstar.example,2016-03-21,,Active,P00110,E10002,D002,"Atlanta, GA",1,JP014,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10111,Employee,Reese,Rivera,employee10111@northstar.example,2017-04-03,,Active,P00111,E10003,D003,"Chicago, IL",1,JP015,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10112,Contingent Worker,Rowan,Evans,employee10112@northstar.example,2018-05-10,,Active,P00112,E10004,D004,"Dallas, TX",1,JP016,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10113,Employee,Robin,Lewis,employee10113@northstar.example,2019-06-17,,Active,P00113,E10005,D005,"Denver, CO",1,JP017,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10114,Employee,Morgan,Stewart,employee10114@northstar.example,2020-07-24,,Active,P00114,E10006,D006,"Orlando, FL",1,JP018,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10115,Employee,Casey,Foster,employee10115@northstar.example,2021-08-06,,Active,P00115,E10007,D007,Remote-US,1,JP019,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10116,Employee,Sydney,Mitchell,employee10116@northstar.example,2022-09-13,,Active,P00116,E10008,D008,"Atlanta, GA",1,JP020,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10117,Employee,Drew,Turner,employee10117@northstar.example,2023-10-20,,Active,P00117,E10009,D009,"Chicago, IL",1,JP021,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10118,Employee,Hayden,Garcia,employee10118@northstar.example,2024-11-02,,Active,P00118,E10010,D010,"Dallas, TX",1,JP022,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10119,Employee,Skyler,Nelson,employee10119@northstar.example,2025-12-09,,Active,P00119,E10011,D011,"Denver, CO",0.5,JP023,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10120,Employee,Avery,Adams,employee10120@northstar.example,2016-01-16,,Active,P00120,E10012,D012,"Orlando, FL",1,JP024,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10121,Employee,Taylor,Howard,employee10121@northstar.example,2017-02-23,,Active,P00121,E10001,D001,Remote-US,1,JP025,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10122,Employee,Cameron,Owens,employee10122@northstar.example,2018-03-05,,Active,P00122,E10002,D002,"Atlanta, GA",1,JP026,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10123,Contingent Worker,Alex,Bennett,employee10123@northstar.example,2019-04-12,,Active,P00123,E10003,D003,"Chicago, IL",1,JP027,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10124,Employee,Quinn,Irwin,employee10124@northstar.example,2020-05-19,,Active,P00124,E10004,D004,"Dallas, TX",1,JP028,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10125,Employee,Emerson,Patel,employee10125@northstar.example,2021-06-01,,Active,P00125,E10005,D005,"Denver, CO",1,JP029,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10126,Employee,Dakota,Carter,employee10126@northstar.example,2022-07-08,,Active,P00126,E10006,D006,"Orlando, FL",1,JP030,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10127,Employee,Jordan,Johnson,employee10127@northstar.example,2023-08-15,,Active,P00127,E10007,D007,Remote-US,1,JP031,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10128,Employee,Riley,Quinn,employee10128@northstar.example,2024-09-22,,Active,P00128,E10008,D008,"Atlanta, GA",1,JP032,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10129,Employee,Parker,Diaz,employee10129@northstar.example,2025-10-04,,Active,P00129,E10009,D009,"Chicago, IL",1,JP033,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10130,Contingent Worker,Jamie,Kim,employee10130@northstar.example,2016-11-11,,Active,P00130,E10010,D010,"Dallas, TX",1,JP034,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10131,Employee,Reese,Rivera,employee10131@northstar.example,2017-12-18,,Active,P00131,E10011,D011,"Denver, CO",1,JP035,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10132,Employee,Rowan,Evans,employee10132@northstar.example,2018-01-25,,Active,P00132,E10012,D012,"Orlando, FL",1,JP036,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10133,Contingent Worker,Robin,Lewis,employee10133@northstar.example,2019-02-07,,Active,P00133,E10001,D001,Remote-US,1,JP037,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10134,Employee,Morgan,Stewart,employee10134@northstar.example,2020-03-14,,Active,P00134,E10002,D002,"Atlanta, GA",1,JP038,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10135,Contingent Worker,Casey,Foster,employee10135@northstar.example,2021-04-21,,Active,P00135,E10003,D003,"Chicago, IL",1,JP039,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10136,Employee,Sydney,Mitchell,employee10136@northstar.example,2022-05-03,,Active,P00136,E10004,D004,"Dallas, TX",0.5,JP040,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10137,Employee,Drew,Turner,employee10137@northstar.example,2023-06-10,,Active,P00137,E10005,D005,"Denver, CO",1,JP041,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10138,Employee,Hayden,Garcia,employee10138@northstar.example,2024-07-17,,Active,P00138,E10006,D006,"Orlando, FL",1,JP042,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10139,Employee,Skyler,Nelson,employee10139@northstar.example,2025-08-24,,Active,P00139,E10007,D007,Remote-US,1,JP043,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10140,Employee,Avery,Adams,employee10140@northstar.example,2016-09-06,,Active,P00140,E10008,D008,"Atlanta, GA",1,JP044,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10141,Employee,Taylor,Howard,employee10141@northstar.example,2017-10-13,,Active,P00141,E10009,D009,"Chicago, IL",1,JP045,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10142,Employee,Cameron,Owens,employee10142@northstar.example,2018-11-20,,Active,P00142,E10010,D010,"Dallas, TX",1,JP046,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10143,Employee,Alex,Bennett,employee10143@northstar.example,2019-12-02,,Active,P00143,E10011,D011,"Denver, CO",1,JP047,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10144,Employee,Quinn,Irwin,employee10144@northstar.example,2020-01-09,,Active,P00144,E10012,D012,"Orlando, FL",1,JP048,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10145,Employee,Emerson,Patel,employee10145@northstar.example,2021-02-16,,Active,P00145,E10001,D001,Remote-US,1,JP001,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10146,Employee,Dakota,Carter,employee10146@northstar.example,2022-03-23,,Active,P00146,E10002,D002,"Atlanta, GA",1,JP002,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10147,Employee,Jordan,Johnson,employee10147@northstar.example,2023-04-05,,Active,P00147,E10003,D003,"Chicago, IL",1,JP003,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10148,Contingent Worker,Riley,Quinn,employee10148@northstar.example,2024-05-12,,Active,P00148,E10004,D004,"Dallas, TX",1,JP004,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10149,Employee,Parker,Diaz,employee10149@northstar.example,2025-06-19,,Active,P00149,E10005,D005,"Denver, CO",1,JP005,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10150,Contingent Worker,Jamie,Kim,employee10150@northstar.example,2016-07-01,,Active,P00150,E10006,D006,"Orlando, FL",1,JP006,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10151,Employee,Reese,Rivera,employee10151@northstar.example,2017-08-08,,Active,P00151,E10007,D007,Remote-US,1,JP007,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10152,Employee,Rowan,Evans,employee10152@northstar.example,2018-09-15,,Active,P00152,E10008,D008,"Atlanta, GA",1,JP008,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10153,Employee,Robin,Lewis,employee10153@northstar.example,2019-10-22,,Active,P00153,E10009,D009,"Chicago, IL",0.5,JP009,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10154,Employee,Morgan,Stewart,employee10154@northstar.example,2020-11-04,,Active,P00154,E10010,D010,"Dallas, TX",1,JP010,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10155,Employee,Casey,Foster,employee10155@northstar.example,2021-12-11,,Active,P00155,E10011,D011,"Denver, CO",1,JP011,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10156,Employee,Sydney,Mitchell,employee10156@northstar.example,2022-01-18,,Active,P00156,E10012,D012,"Orlando, FL",1,JP012,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10157,Employee,Drew,Turner,employee10157@northstar.example,2023-02-25,,Active,P00157,E10001,D001,Remote-US,1,JP013,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10158,Employee,Hayden,Garcia,employee10158@northstar.example,2024-03-07,,Active,P00158,E10002,D002,"Atlanta, GA",1,JP014,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10159,Employee,Skyler,Nelson,employee10159@northstar.example,2025-04-14,,Active,P00159,E10003,D003,"Chicago, IL",1,JP015,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10160,Contingent Worker,Avery,Adams,employee10160@northstar.example,2016-05-21,,Active,P00160,E10004,D004,"Dallas, TX",1,JP016,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10161,Employee,Taylor,Howard,employee10161@northstar.example,2017-06-03,,Active,P00161,E10005,D005,"Denver, CO",1,JP017,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10162,Employee,Cameron,Owens,employee10162@northstar.example,2018-07-10,,Active,P00162,E10006,D006,"Orlando, FL",1,JP018,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10163,Contingent Worker,Alex,Bennett,employee10163@northstar.example,2019-08-17,,Active,P00163,E10007,D007,Remote-US,1,JP019,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10164,Employee,Quinn,Irwin,employee10164@northstar.example,2020-09-24,,Active,P00164,E10008,D008,"Atlanta, GA",1,JP020,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10165,Contingent Worker,Emerson,Patel,employee10165@northstar.example,2021-10-06,,Active,P00165,E10009,D009,"Chicago, IL",1,JP021,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10166,Employee,Dakota,Carter,employee10166@northstar.example,2022-11-13,,Active,P00166,E10010,D010,"Dallas, TX",1,JP022,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10167,Employee,Jordan,Johnson,employee10167@northstar.example,2023-12-20,,Active,P00167,E10011,D011,"Denver, CO",1,JP023,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10168,Employee,Riley,Quinn,employee10168@northstar.example,2024-01-02,,Active,P00168,E10012,D012,"Orlando, FL",1,JP024,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10169,Employee,Parker,Diaz,employee10169@northstar.example,2025-02-09,,Active,P00169,E10001,D001,Remote-US,1,JP025,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10170,Contingent Worker,Jamie,Kim,employee10170@northstar.example,2016-03-16,,Active,P00170,E10002,D002,"Atlanta, GA",0.5,JP026,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10171,Contingent Worker,Reese,Rivera,employee10171@northstar.example,2017-04-23,,Active,P00171,E10003,D003,"Chicago, IL",1,JP027,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10172,Employee,Rowan,Evans,employee10172@northstar.example,2018-05-05,,Active,P00172,E10004,D004,"Dallas, TX",1,JP028,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10173,Employee,Robin,Lewis,employee10173@northstar.example,2019-06-12,,Active,P00173,E10005,D005,"Denver, CO",1,JP029,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10174,Contingent Worker,Morgan,Stewart,employee10174@northstar.example,2020-07-19,,Active,P00174,E10006,D006,"Orlando, FL",1,JP030,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10175,Employee,Casey,Foster,employee10175@northstar.example,2021-08-01,,Active,P00175,E10007,D007,Remote-US,1,JP031,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10176,Employee,Sydney,Mitchell,employee10176@northstar.example,2022-09-08,,Active,P00176,E10008,D008,"Atlanta, GA",1,JP032,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10177,Employee,Drew,Turner,employee10177@northstar.example,2023-10-15,,Active,P00177,E10009,D009,"Chicago, IL",1,JP033,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10178,Employee,Hayden,Garcia,employee10178@northstar.example,2024-11-22,,Active,P00178,E10010,D010,"Dallas, TX",1,JP034,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10179,Employee,Skyler,Nelson,employee10179@northstar.example,2025-12-04,,Active,P00179,E10011,D011,"Denver, CO",1,JP035,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10180,Employee,Avery,Adams,employee10180@northstar.example,2016-01-11,,Active,P00180,E10012,D012,"Orlando, FL",1,JP036,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10181,Employee,Taylor,Howard,employee10181@northstar.example,2017-02-18,,Active,P00181,E10001,D001,Remote-US,1,JP037,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10182,Employee,Cameron,Owens,employee10182@northstar.example,2018-03-25,,Active,P00182,E10002,D002,"Atlanta, GA",1,JP038,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10183,Contingent Worker,Alex,Bennett,employee10183@northstar.example,2019-04-07,,Active,P00183,E10003,D003,"Chicago, IL",1,JP039,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10184,Employee,Quinn,Irwin,employee10184@northstar.example,2020-05-14,,Active,P00184,E10004,D004,"Dallas, TX",1,JP040,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10185,Contingent Worker,Emerson,Patel,employee10185@northstar.example,2021-06-21,,Active,P00185,E10005,D005,"Denver, CO",1,JP041,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10186,Employee,Dakota,Carter,employee10186@northstar.example,2022-07-03,,Active,P00186,E10006,D006,"Orlando, FL",1,JP042,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10187,Employee,Jordan,Johnson,employee10187@northstar.example,2023-08-10,,Active,P00187,E10007,D007,Remote-US,0.5,JP043,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10188,Employee,Riley,Quinn,employee10188@northstar.example,2024-09-17,,Active,P00188,E10008,D008,"Atlanta, GA",1,JP044,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10189,Employee,Parker,Diaz,employee10189@northstar.example,2025-10-24,,Active,P00189,E10009,D009,"Chicago, IL",1,JP045,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10190,Employee,Jamie,Kim,employee10190@northstar.example,2016-11-06,,Active,P00190,E10010,D010,"Dallas, TX",1,JP046,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10191,Contingent Worker,Reese,Rivera,employee10191@northstar.example,2017-12-13,,Active,P00191,E10011,D011,"Denver, CO",1,JP047,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10192,Employee,Rowan,Evans,employee10192@northstar.example,2018-01-20,,Active,P00192,E10012,D012,"Orlando, FL",1,JP048,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10193,Employee,Robin,Lewis,employee10193@northstar.example,2019-02-02,,Active,P00193,E10001,D001,Remote-US,1,JP001,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10194,Contingent Worker,Morgan,Stewart,employee10194@northstar.example,2020-03-09,,Active,P00194,E10002,D002,"Atlanta, GA",1,JP002,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10195,Employee,Casey,Foster,employee10195@northstar.example,2021-04-16,,Active,P00195,E10003,D003,"Chicago, IL",1,JP003,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10196,Employee,Sydney,Mitchell,employee10196@northstar.example,2022-05-23,,Active,P00196,E10004,D004,"Dallas, TX",1,JP004,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10197,Employee,Drew,Turner,employee10197@northstar.example,2023-06-05,,Active,P00197,E10005,D005,"Denver, CO",1,JP005,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10198,Employee,Hayden,Garcia,employee10198@northstar.example,2024-07-12,,Active,P00198,E10006,D006,"Orlando, FL",1,JP006,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10199,Employee,Skyler,Nelson,employee10199@northstar.example,2025-08-19,,Active,P00199,E10007,D007,Remote-US,1,JP007,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10200,Contingent Worker,Avery,Adams,employee10200@northstar.example,2016-09-01,,Active,P00200,E10008,D008,"Atlanta, GA",1,JP008,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10201,Employee,Taylor,Howard,employee10201@northstar.example,2017-10-08,,Active,P00201,E10009,D009,"Chicago, IL",1,JP009,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10202,Employee,Cameron,Owens,employee10202@northstar.example,2018-11-15,,Active,P00202,E10010,D010,"Dallas, TX",1,JP010,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10203,Employee,Alex,Bennett,employee10203@northstar.example,2019-12-22,,Active,P00203,E10011,D011,"Denver, CO",1,JP011,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10204,Employee,Quinn,Irwin,employee10204@northstar.example,2020-01-04,,Active,P00204,E10012,D012,"Orlando, FL",0.5,JP012,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10205,Employee,Emerson,Patel,employee10205@northstar.example,2021-02-11,,Active,P00205,E10001,D001,Remote-US,1,JP013,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10206,Contingent Worker,Dakota,Carter,employee10206@northstar.example,2022-03-18,,Active,P00206,E10002,D002,"Atlanta, GA",1,JP014,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10207,Employee,Jordan,Johnson,employee10207@northstar.example,2023-04-25,,Active,P00207,E10003,D003,"Chicago, IL",1,JP015,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10208,Employee,Riley,Quinn,employee10208@northstar.example,2024-05-07,,Active,P00208,E10004,D004,"Dallas, TX",1,JP016,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10209,Contingent Worker,Parker,Diaz,employee10209@northstar.example,2025-06-14,,Active,P00209,E10005,D005,"Denver, CO",1,JP017,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10210,Contingent Worker,Jamie,Kim,employee10210@northstar.example,2016-07-21,,Active,P00210,E10006,D006,"Orlando, FL",1,JP018,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10211,Employee,Reese,Rivera,employee10211@northstar.example,2017-08-03,,Active,P00211,E10007,D007,Remote-US,1,JP019,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10212,Employee,Rowan,Evans,employee10212@northstar.example,2018-09-10,,Active,P00212,E10008,D008,"Atlanta, GA",1,JP020,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10213,Employee,Robin,Lewis,employee10213@northstar.example,2019-10-17,,Active,P00213,E10009,D009,"Chicago, IL",1,JP021,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10214,Employee,Morgan,Stewart,employee10214@northstar.example,2020-11-24,,Active,P00214,E10010,D010,"Dallas, TX",1,JP022,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10215,Employee,Casey,Foster,employee10215@northstar.example,2021-12-06,,Active,P00215,E10011,D011,"Denver, CO",1,JP023,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10216,Contingent Worker,Sydney,Mitchell,employee10216@northstar.example,2022-01-13,,Active,P00216,E10012,D012,"Orlando, FL",1,JP024,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10217,Employee,Drew,Turner,employee10217@northstar.example,2023-02-20,,Active,P00217,E10001,D001,Remote-US,1,JP025,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10218,Employee,Hayden,Garcia,employee10218@northstar.example,2024-03-02,,Active,P00218,E10002,D002,"Atlanta, GA",1,JP026,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10219,Employee,Skyler,Nelson,employee10219@northstar.example,2025-04-09,,Active,P00219,E10003,D003,"Chicago, IL",1,JP027,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10220,Employee,Avery,Adams,employee10220@northstar.example,2016-05-16,,Active,P00220,E10004,D004,"Dallas, TX",1,JP028,2026-09-30,Synthetic Workday,2026-09-30T20:15:00
+E10221,Employee,Taylor,Howard,employee10221@northstar.example,2017-06-23,,Active,P00221,E10005,D005,"Denver, CO",0.5,JP029,2026-09-30,Synthetic Workday,2026-09-30T01:15:00
+E10222,Employee,Cameron,Owens,employee10222@northstar.example,2018-07-05,,Active,P00222,E10006,D006,"Orlando, FL",1,JP030,2026-09-30,Synthetic Workday,2026-09-30T02:15:00
+E10223,Employee,Alex,Bennett,employee10223@northstar.example,2019-08-12,,Active,P00223,E10007,D007,Remote-US,1,JP031,2026-09-30,Synthetic Workday,2026-09-30T03:15:00
+E10224,Employee,Quinn,Irwin,employee10224@northstar.example,2020-09-19,,Active,P00224,E10008,D008,"Atlanta, GA",1,JP032,2026-09-30,Synthetic Workday,2026-09-30T04:15:00
+E10225,Employee,Emerson,Patel,employee10225@northstar.example,2021-10-01,,Active,P00225,E10009,D009,"Chicago, IL",1,JP033,2026-09-30,Synthetic Workday,2026-09-30T05:15:00
+E10226,Employee,Dakota,Carter,employee10226@northstar.example,2022-11-08,,Active,P00226,E10010,D010,"Dallas, TX",1,JP034,2026-09-30,Synthetic Workday,2026-09-30T06:15:00
+E10227,Employee,Jordan,Johnson,employee10227@northstar.example,2023-12-15,,Active,P00227,E10011,D011,"Denver, CO",1,JP035,2026-09-30,Synthetic Workday,2026-09-30T07:15:00
+E10228,Contingent Worker,Riley,Quinn,employee10228@northstar.example,2024-01-22,,Active,P00228,E10012,D012,"Orlando, FL",1,JP036,2026-09-30,Synthetic Workday,2026-09-30T08:15:00
+E10229,Employee,Parker,Diaz,employee10229@northstar.example,2025-02-04,,Active,P00229,E10001,D001,Remote-US,1,JP037,2026-09-30,Synthetic Workday,2026-09-30T09:15:00
+E10230,Employee,Jamie,Kim,employee10230@northstar.example,2016-03-11,,Active,P00230,E10002,D002,"Atlanta, GA",1,JP038,2026-09-30,Synthetic Workday,2026-09-30T10:15:00
+E10231,Employee,Reese,Rivera,employee10231@northstar.example,2017-04-18,,Active,P00231,E10003,D003,"Chicago, IL",1,JP039,2026-09-30,Synthetic Workday,2026-09-30T11:15:00
+E10232,Employee,Rowan,Evans,employee10232@northstar.example,2018-05-25,,Active,P00232,E10004,D004,"Dallas, TX",1,JP040,2026-09-30,Synthetic Workday,2026-09-30T12:15:00
+E10233,Contingent Worker,Robin,Lewis,employee10233@northstar.example,2019-06-07,,Active,P00233,E10005,D005,"Denver, CO",1,JP041,2026-09-30,Synthetic Workday,2026-09-30T13:15:00
+E10234,Contingent Worker,Morgan,Stewart,employee10234@northstar.example,2020-07-14,,Active,P00234,E10006,D006,"Orlando, FL",1,JP042,2026-09-30,Synthetic Workday,2026-09-30T14:15:00
+E10235,Contingent Worker,Casey,Foster,employee10235@northstar.example,2021-08-21,,Active,P00235,E10007,D007,Remote-US,1,JP043,2026-09-30,Synthetic Workday,2026-09-30T15:15:00
+E10236,Employee,Sydney,Mitchell,employee10236@northstar.example,2022-09-03,,Active,P00236,E10008,D008,"Atlanta, GA",1,JP044,2026-09-30,Synthetic Workday,2026-09-30T16:15:00
+E10237,Employee,Drew,Turner,employee10237@northstar.example,2023-10-10,,Active,P00237,E10009,D009,"Chicago, IL",1,JP045,2026-09-30,Synthetic Workday,2026-09-30T17:15:00
+E10238,Contingent Worker,Hayden,Garcia,employee10238@northstar.example,2024-11-17,,Active,P00238,E10010,D010,"Dallas, TX",0.5,JP046,2026-09-30,Synthetic Workday,2026-09-30T18:15:00
+E10239,Employee,Skyler,Nelson,employee10239@northstar.example,2025-12-24,,Active,P00239,E10011,D011,"Denver, CO",1,JP047,2026-09-30,Synthetic Workday,2026-09-30T19:15:00
+E10240,Contingent Worker,Avery,Adams,employee10240@northstar.example,2016-01-06,,Active,P00240,E10012,D012,"Orlando, FL",1,JP048,2026-09-30,Synthetic Workday,2026-09-30T20:15:00

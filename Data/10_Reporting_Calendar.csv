@@ -1,0 +1,6 @@
+Report_Name,Cadence,Reporting_Period_End,Expected_Run_Date,Actual_Run_Date,Owner,Validation_Status,Publication_Status,Notes
+Weekly Active Headcount,Weekly,2026-11-07,2026-11-09,2026-11-09,People Analytics,Passed,Published,
+Weekly Active Headcount,Weekly,2026-11-14,2026-11-16,2026-11-16,People Analytics,Passed,Published,
+Weekly Active Headcount,Weekly,2026-11-21,2026-11-23,2026-11-24,People Analytics,Passed,Published,One day late
+Monthly Workforce Dashboard,Monthly,2026-11-30,2026-12-02,,People Analytics,Requires Investigation,Not Published,Data-quality review pending
+Monthly Compliance Submission,Monthly,2026-11-30,2026-12-04,,People Analytics,Not Started,Not Published,

@@ -1,0 +1,271 @@
+Position_ID,Job_Profile_ID,Job_Title,Job_Family,Job_Grade,FTE,Exempt_Status,Department_ID,Location,Position_Status
+P00001,JP001,Coordinator,Finance,8,1,Non-Exempt,D001,Remote-US,Filled
+P00002,JP002,Analyst II,Human Resources,6,1,Exempt,D002,"Atlanta, GA",Filled
+P00003,JP003,Manager,Technology,5,1,Exempt,D003,"Chicago, IL",Filled
+P00004,JP004,Senior Analyst,Operations,7,1,Exempt,D004,"Dallas, TX",Filled
+P00005,JP005,Analyst II,Customer Experience,6,1,Exempt,D005,"Denver, CO",Filled
+P00006,JP006,Analyst II,Sales,6,1,Exempt,D006,"Orlando, FL",Filled
+P00007,JP007,Analyst I,Marketing,5,1,Exempt,D007,Remote-US,Filled
+P00008,JP008,Senior Analyst,Product,7,1,Exempt,D008,"Atlanta, GA",Filled
+P00009,JP009,Analyst II,Analytics,6,1,Exempt,D009,"Chicago, IL",Filled
+P00010,JP010,Analyst I,Compliance,5,1,Exempt,D010,"Dallas, TX",Filled
+P00011,JP011,Senior Manager,Programs,6,1,Exempt,D011,"Denver, CO",Filled
+P00012,JP012,Manager,Finance,5,1,Exempt,D012,"Orlando, FL",Filled
+P00013,JP013,Director,Human Resources,7,1,Exempt,D001,Remote-US,Filled
+P00014,JP014,Coordinator,Technology,8,1,Non-Exempt,D002,"Atlanta, GA",Filled
+P00015,JP015,Analyst I,Operations,5,1,Exempt,D003,"Chicago, IL",Filled
+P00016,JP016,Coordinator,Customer Experience,8,1,Non-Exempt,D004,"Dallas, TX",Filled
+P00017,JP017,Senior Analyst,Sales,7,0.5,Exempt,D005,"Denver, CO",Filled
+P00018,JP018,Manager,Marketing,5,1,Exempt,D006,"Orlando, FL",Filled
+P00019,JP019,Senior Manager,Product,6,1,Exempt,D007,Remote-US,Filled
+P00020,JP020,Senior Manager,Analytics,6,1,Exempt,D008,"Atlanta, GA",Filled
+P00021,JP021,Analyst I,Compliance,5,1,Exempt,D009,"Chicago, IL",Filled
+P00022,JP022,Manager,Programs,5,1,Exempt,D010,"Dallas, TX",Filled
+P00023,JP023,Manager,Finance,5,1,Exempt,D011,"Denver, CO",Filled
+P00024,JP024,Analyst II,Human Resources,6,1,Exempt,D012,"Orlando, FL",Filled
+P00025,JP025,Analyst I,Technology,5,1,Exempt,D001,Remote-US,Filled
+P00026,JP026,Analyst II,Operations,6,1,Exempt,D002,"Atlanta, GA",Filled
+P00027,JP027,Coordinator,Customer Experience,8,1,Non-Exempt,D003,"Chicago, IL",Filled
+P00028,JP028,Director,Sales,7,1,Exempt,D004,"Dallas, TX",Filled
+P00029,JP029,Specialist,Marketing,9,1,Non-Exempt,D005,"Denver, CO",Filled
+P00030,JP030,Coordinator,Product,8,1,Non-Exempt,D006,"Orlando, FL",Filled
+P00031,JP031,Senior Analyst,Analytics,7,1,Exempt,D007,Remote-US,Filled
+P00032,JP032,Analyst I,Compliance,5,1,Exempt,D008,"Atlanta, GA",Filled
+P00033,JP033,Analyst II,Programs,6,1,Exempt,D009,"Chicago, IL",Filled
+P00034,JP034,Specialist,Finance,9,0.5,Non-Exempt,D010,"Dallas, TX",Filled
+P00035,JP035,Analyst II,Human Resources,6,1,Exempt,D011,"Denver, CO",Filled
+P00036,JP036,Analyst I,Technology,5,1,Exempt,D012,"Orlando, FL",Filled
+P00037,JP037,Coordinator,Operations,8,1,Non-Exempt,D001,Remote-US,Filled
+P00038,JP038,Manager,Customer Experience,5,1,Exempt,D002,"Atlanta, GA",Filled
+P00039,JP039,Senior Analyst,Sales,7,1,Exempt,D003,"Chicago, IL",Filled
+P00040,JP040,Coordinator,Marketing,8,1,Non-Exempt,D004,"Dallas, TX",Filled
+P00041,JP041,Director,Product,7,1,Exempt,D005,"Denver, CO",Filled
+P00042,JP042,Senior Manager,Analytics,6,1,Exempt,D006,"Orlando, FL",Filled
+P00043,JP043,Specialist,Compliance,9,1,Non-Exempt,D007,Remote-US,Filled
+P00044,JP044,Director,Programs,7,1,Exempt,D008,"Atlanta, GA",Filled
+P00045,JP045,Senior Analyst,Finance,7,1,Exempt,D009,"Chicago, IL",Filled
+P00046,JP046,Coordinator,Human Resources,8,1,Non-Exempt,D010,"Dallas, TX",Filled
+P00047,JP047,Director,Technology,7,1,Exempt,D011,"Denver, CO",Filled
+P00048,JP048,Senior Analyst,Operations,7,1,Exempt,D012,"Orlando, FL",Filled
+P00049,JP001,Manager,Customer Experience,5,1,Exempt,D001,Remote-US,Filled
+P00050,JP002,Analyst I,Sales,5,1,Exempt,D002,"Atlanta, GA",Filled
+P00051,JP003,Manager,Marketing,5,0.5,Exempt,D003,"Chicago, IL",Filled
+P00052,JP004,Senior Manager,Product,6,1,Exempt,D004,"Dallas, TX",Filled
+P00053,JP005,Senior Analyst,Analytics,7,1,Exempt,D005,"Denver, CO",Filled
+P00054,JP006,Coordinator,Compliance,8,1,Non-Exempt,D006,"Orlando, FL",Filled
+P00055,JP007,Senior Analyst,Programs,7,1,Exempt,D007,Remote-US,Filled
+P00056,JP008,Specialist,Finance,9,1,Non-Exempt,D008,"Atlanta, GA",Filled
+P00057,JP009,Coordinator,Human Resources,8,1,Non-Exempt,D009,"Chicago, IL",Filled
+P00058,JP010,Coordinator,Technology,8,1,Non-Exempt,D010,"Dallas, TX",Filled
+P00059,JP011,Manager,Operations,5,1,Exempt,D011,"Denver, CO",Filled
+P00060,JP012,Manager,Customer Experience,5,1,Exempt,D012,"Orlando, FL",Filled
+P00061,JP013,Manager,Sales,5,1,Exempt,D001,Remote-US,Filled
+P00062,JP014,Senior Manager,Marketing,6,1,Exempt,D002,"Atlanta, GA",Filled
+P00063,JP015,Specialist,Product,9,1,Non-Exempt,D003,"Chicago, IL",Filled
+P00064,JP016,Specialist,Analytics,9,1,Non-Exempt,D004,"Dallas, TX",Filled
+P00065,JP017,Specialist,Compliance,9,1,Non-Exempt,D005,"Denver, CO",Filled
+P00066,JP018,Coordinator,Programs,8,1,Non-Exempt,D006,"Orlando, FL",Filled
+P00067,JP019,Senior Analyst,Finance,7,1,Exempt,D007,Remote-US,Filled
+P00068,JP020,Analyst I,Human Resources,5,0.5,Exempt,D008,"Atlanta, GA",Filled
+P00069,JP021,Senior Manager,Technology,6,1,Exempt,D009,"Chicago, IL",Filled
+P00070,JP022,Manager,Operations,5,1,Exempt,D010,"Dallas, TX",Filled
+P00071,JP023,Manager,Customer Experience,5,1,Exempt,D011,"Denver, CO",Filled
+P00072,JP024,Analyst II,Sales,6,1,Exempt,D012,"Orlando, FL",Filled
+P00073,JP025,Senior Manager,Marketing,6,1,Exempt,D001,Remote-US,Filled
+P00074,JP026,Director,Product,7,1,Exempt,D002,"Atlanta, GA",Filled
+P00075,JP027,Analyst II,Analytics,6,1,Exempt,D003,"Chicago, IL",Filled
+P00076,JP028,Analyst I,Compliance,5,1,Exempt,D004,"Dallas, TX",Filled
+P00077,JP029,Coordinator,Programs,8,1,Non-Exempt,D005,"Denver, CO",Filled
+P00078,JP030,Manager,Finance,5,1,Exempt,D006,"Orlando, FL",Filled
+P00079,JP031,Senior Analyst,Human Resources,7,1,Exempt,D007,Remote-US,Filled
+P00080,JP032,Senior Analyst,Technology,7,1,Exempt,D008,"Atlanta, GA",Filled
+P00081,JP033,Specialist,Operations,9,1,Non-Exempt,D009,"Chicago, IL",Filled
+P00082,JP034,Manager,Customer Experience,5,1,Exempt,D010,"Dallas, TX",Filled
+P00083,JP035,Manager,Sales,5,1,Exempt,D011,"Denver, CO",Filled
+P00084,JP036,Director,Marketing,7,1,Exempt,D012,"Orlando, FL",Filled
+P00085,JP037,Coordinator,Product,8,0.5,Non-Exempt,D001,Remote-US,Filled
+P00086,JP038,Manager,Analytics,5,1,Exempt,D002,"Atlanta, GA",Filled
+P00087,JP039,Analyst I,Compliance,5,1,Exempt,D003,"Chicago, IL",Filled
+P00088,JP040,Specialist,Programs,9,1,Non-Exempt,D004,"Dallas, TX",Filled
+P00089,JP041,Specialist,Finance,9,1,Non-Exempt,D005,"Denver, CO",Filled
+P00090,JP042,Analyst II,Human Resources,6,1,Exempt,D006,"Orlando, FL",Filled
+P00091,JP043,Coordinator,Technology,8,1,Non-Exempt,D007,Remote-US,Filled
+P00092,JP044,Specialist,Operations,9,1,Non-Exempt,D008,"Atlanta, GA",Filled
+P00093,JP045,Manager,Customer Experience,5,1,Exempt,D009,"Chicago, IL",Filled
+P00094,JP046,Senior Analyst,Sales,7,1,Exempt,D010,"Dallas, TX",Filled
+P00095,JP047,Coordinator,Marketing,8,1,Non-Exempt,D011,"Denver, CO",Filled
+P00096,JP048,Analyst II,Product,6,1,Exempt,D012,"Orlando, FL",Filled
+P00097,JP001,Analyst I,Analytics,5,1,Exempt,D001,Remote-US,Filled
+P00098,JP002,Manager,Compliance,5,1,Exempt,D002,"Atlanta, GA",Filled
+P00099,JP003,Senior Analyst,Programs,7,1,Exempt,D003,"Chicago, IL",Filled
+P00100,JP004,Manager,Finance,5,1,Exempt,D004,"Dallas, TX",Filled
+P00101,JP005,Analyst II,Human Resources,6,1,Exempt,D005,"Denver, CO",Filled
+P00102,JP006,Coordinator,Technology,8,0.5,Non-Exempt,D006,"Orlando, FL",Filled
+P00103,JP007,Manager,Operations,5,1,Exempt,D007,Remote-US,Filled
+P00104,JP008,Specialist,Customer Experience,9,1,Non-Exempt,D008,"Atlanta, GA",Filled
+P00105,JP009,Manager,Sales,5,1,Exempt,D009,"Chicago, IL",Filled
+P00106,JP010,Director,Marketing,7,1,Exempt,D010,"Dallas, TX",Filled
+P00107,JP011,Analyst I,Product,5,1,Exempt,D011,"Denver, CO",Filled
+P00108,JP012,Director,Analytics,7,1,Exempt,D012,"Orlando, FL",Filled
+P00109,JP013,Senior Manager,Compliance,6,1,Exempt,D001,Remote-US,Filled
+P00110,JP014,Senior Manager,Programs,6,1,Exempt,D002,"Atlanta, GA",Filled
+P00111,JP015,Specialist,Finance,9,1,Non-Exempt,D003,"Chicago, IL",Filled
+P00112,JP016,Director,Human Resources,7,1,Exempt,D004,"Dallas, TX",Filled
+P00113,JP017,Coordinator,Technology,8,1,Non-Exempt,D005,"Denver, CO",Filled
+P00114,JP018,Specialist,Operations,9,1,Non-Exempt,D006,"Orlando, FL",Filled
+P00115,JP019,Senior Analyst,Customer Experience,7,1,Exempt,D007,Remote-US,Filled
+P00116,JP020,Analyst I,Sales,5,1,Exempt,D008,"Atlanta, GA",Filled
+P00117,JP021,Director,Marketing,7,1,Exempt,D009,"Chicago, IL",Filled
+P00118,JP022,Senior Analyst,Product,7,1,Exempt,D010,"Dallas, TX",Filled
+P00119,JP023,Senior Manager,Analytics,6,0.5,Exempt,D011,"Denver, CO",Filled
+P00120,JP024,Analyst II,Compliance,6,1,Exempt,D012,"Orlando, FL",Filled
+P00121,JP025,Analyst I,Programs,5,1,Exempt,D001,Remote-US,Filled
+P00122,JP026,Coordinator,Finance,8,1,Non-Exempt,D002,"Atlanta, GA",Filled
+P00123,JP027,Coordinator,Human Resources,8,1,Non-Exempt,D003,"Chicago, IL",Filled
+P00124,JP028,Analyst II,Technology,6,1,Exempt,D004,"Dallas, TX",Filled
+P00125,JP029,Analyst II,Operations,6,1,Exempt,D005,"Denver, CO",Filled
+P00126,JP030,Manager,Customer Experience,5,1,Exempt,D006,"Orlando, FL",Filled
+P00127,JP031,Coordinator,Sales,8,1,Non-Exempt,D007,Remote-US,Filled
+P00128,JP032,Director,Marketing,7,1,Exempt,D008,"Atlanta, GA",Filled
+P00129,JP033,Coordinator,Product,8,1,Non-Exempt,D009,"Chicago, IL",Filled
+P00130,JP034,Director,Analytics,7,1,Exempt,D010,"Dallas, TX",Filled
+P00131,JP035,Coordinator,Compliance,8,1,Non-Exempt,D011,"Denver, CO",Filled
+P00132,JP036,Manager,Programs,5,1,Exempt,D012,"Orlando, FL",Filled
+P00133,JP037,Manager,Finance,5,1,Exempt,D001,Remote-US,Filled
+P00134,JP038,Analyst I,Human Resources,5,1,Exempt,D002,"Atlanta, GA",Filled
+P00135,JP039,Specialist,Technology,9,1,Non-Exempt,D003,"Chicago, IL",Filled
+P00136,JP040,Analyst I,Operations,5,0.5,Exempt,D004,"Dallas, TX",Filled
+P00137,JP041,Director,Customer Experience,7,1,Exempt,D005,"Denver, CO",Filled
+P00138,JP042,Manager,Sales,5,1,Exempt,D006,"Orlando, FL",Filled
+P00139,JP043,Analyst II,Marketing,6,1,Exempt,D007,Remote-US,Filled
+P00140,JP044,Coordinator,Product,8,1,Non-Exempt,D008,"Atlanta, GA",Filled
+P00141,JP045,Analyst I,Analytics,5,1,Exempt,D009,"Chicago, IL",Filled
+P00142,JP046,Director,Compliance,7,1,Exempt,D010,"Dallas, TX",Filled
+P00143,JP047,Coordinator,Programs,8,1,Non-Exempt,D011,"Denver, CO",Filled
+P00144,JP048,Senior Analyst,Finance,7,1,Exempt,D012,"Orlando, FL",Filled
+P00145,JP001,Senior Analyst,Human Resources,7,1,Exempt,D001,Remote-US,Filled
+P00146,JP002,Senior Analyst,Technology,7,1,Exempt,D002,"Atlanta, GA",Filled
+P00147,JP003,Manager,Operations,5,1,Exempt,D003,"Chicago, IL",Filled
+P00148,JP004,Manager,Customer Experience,5,1,Exempt,D004,"Dallas, TX",Filled
+P00149,JP005,Manager,Sales,5,1,Exempt,D005,"Denver, CO",Filled
+P00150,JP006,Analyst I,Marketing,5,1,Exempt,D006,"Orlando, FL",Filled
+P00151,JP007,Senior Manager,Product,6,1,Exempt,D007,Remote-US,Filled
+P00152,JP008,Coordinator,Analytics,8,1,Non-Exempt,D008,"Atlanta, GA",Filled
+P00153,JP009,Coordinator,Compliance,8,0.5,Non-Exempt,D009,"Chicago, IL",Filled
+P00154,JP010,Senior Analyst,Programs,7,1,Exempt,D010,"Dallas, TX",Filled
+P00155,JP011,Manager,Finance,5,1,Exempt,D011,"Denver, CO",Filled
+P00156,JP012,Coordinator,Human Resources,8,1,Non-Exempt,D012,"Orlando, FL",Filled
+P00157,JP013,Senior Manager,Technology,6,1,Exempt,D001,Remote-US,Filled
+P00158,JP014,Director,Operations,7,1,Exempt,D002,"Atlanta, GA",Filled
+P00159,JP015,Director,Customer Experience,7,1,Exempt,D003,"Chicago, IL",Filled
+P00160,JP016,Coordinator,Sales,8,1,Non-Exempt,D004,"Dallas, TX",Filled
+P00161,JP017,Senior Manager,Marketing,6,1,Exempt,D005,"Denver, CO",Filled
+P00162,JP018,Analyst II,Product,6,1,Exempt,D006,"Orlando, FL",Filled
+P00163,JP019,Senior Manager,Analytics,6,1,Exempt,D007,Remote-US,Filled
+P00164,JP020,Analyst I,Compliance,5,1,Exempt,D008,"Atlanta, GA",Filled
+P00165,JP021,Coordinator,Programs,8,1,Non-Exempt,D009,"Chicago, IL",Filled
+P00166,JP022,Senior Analyst,Finance,7,1,Exempt,D010,"Dallas, TX",Filled
+P00167,JP023,Specialist,Human Resources,9,1,Non-Exempt,D011,"Denver, CO",Filled
+P00168,JP024,Specialist,Technology,9,1,Non-Exempt,D012,"Orlando, FL",Filled
+P00169,JP025,Analyst II,Operations,6,1,Exempt,D001,Remote-US,Filled
+P00170,JP026,Manager,Customer Experience,5,0.5,Exempt,D002,"Atlanta, GA",Filled
+P00171,JP027,Director,Sales,7,1,Exempt,D003,"Chicago, IL",Filled
+P00172,JP028,Manager,Marketing,5,1,Exempt,D004,"Dallas, TX",Filled
+P00173,JP029,Senior Manager,Product,6,1,Exempt,D005,"Denver, CO",Filled
+P00174,JP030,Specialist,Analytics,9,1,Non-Exempt,D006,"Orlando, FL",Filled
+P00175,JP031,Specialist,Compliance,9,1,Non-Exempt,D007,Remote-US,Filled
+P00176,JP032,Analyst I,Programs,5,1,Exempt,D008,"Atlanta, GA",Filled
+P00177,JP033,Senior Analyst,Finance,7,1,Exempt,D009,"Chicago, IL",Filled
+P00178,JP034,Director,Human Resources,7,1,Exempt,D010,"Dallas, TX",Filled
+P00179,JP035,Analyst II,Technology,6,1,Exempt,D011,"Denver, CO",Filled
+P00180,JP036,Analyst I,Operations,5,1,Exempt,D012,"Orlando, FL",Filled
+P00181,JP037,Manager,Customer Experience,5,1,Exempt,D001,Remote-US,Filled
+P00182,JP038,Specialist,Sales,9,1,Non-Exempt,D002,"Atlanta, GA",Filled
+P00183,JP039,Senior Manager,Marketing,6,1,Exempt,D003,"Chicago, IL",Filled
+P00184,JP040,Analyst II,Product,6,1,Exempt,D004,"Dallas, TX",Filled
+P00185,JP041,Analyst I,Analytics,5,1,Exempt,D005,"Denver, CO",Filled
+P00186,JP042,Manager,Compliance,5,1,Exempt,D006,"Orlando, FL",Filled
+P00187,JP043,Senior Analyst,Programs,7,0.5,Exempt,D007,Remote-US,Filled
+P00188,JP044,Analyst II,Finance,6,1,Exempt,D008,"Atlanta, GA",Filled
+P00189,JP045,Coordinator,Human Resources,8,1,Non-Exempt,D009,"Chicago, IL",Filled
+P00190,JP046,Analyst I,Technology,5,1,Exempt,D010,"Dallas, TX",Filled
+P00191,JP047,Senior Manager,Operations,6,1,Exempt,D011,"Denver, CO",Filled
+P00192,JP048,Manager,Customer Experience,5,1,Exempt,D012,"Orlando, FL",Filled
+P00193,JP001,Manager,Sales,5,1,Exempt,D001,Remote-US,Filled
+P00194,JP002,Analyst II,Marketing,6,1,Exempt,D002,"Atlanta, GA",Filled
+P00195,JP003,Analyst I,Product,5,1,Exempt,D003,"Chicago, IL",Filled
+P00196,JP004,Senior Manager,Analytics,6,1,Exempt,D004,"Dallas, TX",Filled
+P00197,JP005,Senior Manager,Compliance,6,1,Exempt,D005,"Denver, CO",Filled
+P00198,JP006,Senior Manager,Programs,6,1,Exempt,D006,"Orlando, FL",Filled
+P00199,JP007,Specialist,Finance,9,1,Non-Exempt,D007,Remote-US,Filled
+P00200,JP008,Manager,Human Resources,5,1,Exempt,D008,"Atlanta, GA",Filled
+P00201,JP009,Specialist,Technology,9,1,Non-Exempt,D009,"Chicago, IL",Filled
+P00202,JP010,Analyst I,Operations,5,1,Exempt,D010,"Dallas, TX",Filled
+P00203,JP011,Coordinator,Customer Experience,8,1,Non-Exempt,D011,"Denver, CO",Filled
+P00204,JP012,Analyst I,Sales,5,0.5,Exempt,D012,"Orlando, FL",Filled
+P00205,JP013,Analyst II,Marketing,6,1,Exempt,D001,Remote-US,Filled
+P00206,JP014,Analyst II,Product,6,1,Exempt,D002,"Atlanta, GA",Filled
+P00207,JP015,Analyst II,Analytics,6,1,Exempt,D003,"Chicago, IL",Filled
+P00208,JP016,Director,Compliance,7,1,Exempt,D004,"Dallas, TX",Filled
+P00209,JP017,Specialist,Programs,9,1,Non-Exempt,D005,"Denver, CO",Filled
+P00210,JP018,Analyst I,Finance,5,1,Exempt,D006,"Orlando, FL",Filled
+P00211,JP019,Analyst I,Human Resources,5,1,Exempt,D007,Remote-US,Filled
+P00212,JP020,Analyst II,Technology,6,1,Exempt,D008,"Atlanta, GA",Filled
+P00213,JP021,Analyst II,Operations,6,1,Exempt,D009,"Chicago, IL",Filled
+P00214,JP022,Director,Customer Experience,7,1,Exempt,D010,"Dallas, TX",Filled
+P00215,JP023,Analyst II,Sales,6,1,Exempt,D011,"Denver, CO",Filled
+P00216,JP024,Coordinator,Marketing,8,1,Non-Exempt,D012,"Orlando, FL",Filled
+P00217,JP025,Senior Analyst,Product,7,1,Exempt,D001,Remote-US,Filled
+P00218,JP026,Director,Analytics,7,1,Exempt,D002,"Atlanta, GA",Filled
+P00219,JP027,Senior Analyst,Compliance,7,1,Exempt,D003,"Chicago, IL",Filled
+P00220,JP028,Senior Manager,Programs,6,1,Exempt,D004,"Dallas, TX",Filled
+P00221,JP029,Analyst I,Finance,5,0.5,Exempt,D005,"Denver, CO",Filled
+P00222,JP030,Analyst I,Human Resources,5,1,Exempt,D006,"Orlando, FL",Filled
+P00223,JP031,Director,Technology,7,1,Exempt,D007,Remote-US,Filled
+P00224,JP032,Analyst I,Operations,5,1,Exempt,D008,"Atlanta, GA",Filled
+P00225,JP033,Senior Analyst,Customer Experience,7,1,Exempt,D009,"Chicago, IL",Filled
+P00226,JP034,Analyst I,Sales,5,1,Exempt,D010,"Dallas, TX",Filled
+P00227,JP035,Analyst II,Marketing,6,1,Exempt,D011,"Denver, CO",Filled
+P00228,JP036,Senior Analyst,Product,7,1,Exempt,D012,"Orlando, FL",Filled
+P00229,JP037,Analyst I,Analytics,5,1,Exempt,D001,Remote-US,Filled
+P00230,JP038,Senior Analyst,Compliance,7,1,Exempt,D002,"Atlanta, GA",Filled
+P00231,JP039,Analyst II,Programs,6,1,Exempt,D003,"Chicago, IL",Filled
+P00232,JP040,Analyst II,Finance,6,1,Exempt,D004,"Dallas, TX",Filled
+P00233,JP041,Specialist,Human Resources,9,1,Non-Exempt,D005,"Denver, CO",Filled
+P00234,JP042,Manager,Technology,5,1,Exempt,D006,"Orlando, FL",Filled
+P00235,JP043,Analyst I,Operations,5,1,Exempt,D007,Remote-US,Filled
+P00236,JP044,Senior Analyst,Customer Experience,7,1,Exempt,D008,"Atlanta, GA",Filled
+P00237,JP045,Analyst I,Sales,5,1,Exempt,D009,"Chicago, IL",Filled
+P00238,JP046,Director,Marketing,7,0.5,Exempt,D010,"Dallas, TX",Filled
+P00239,JP047,Senior Manager,Product,6,1,Exempt,D011,"Denver, CO",Filled
+P00240,JP048,Specialist,Analytics,9,1,Non-Exempt,D012,"Orlando, FL",Filled
+P00241,JP001,Director,Compliance,7,1,Exempt,D001,Remote-US,Filled
+P00242,JP002,Analyst II,Programs,6,1,Exempt,D002,"Atlanta, GA",Filled
+P00243,JP003,Senior Manager,Finance,6,1,Exempt,D003,"Chicago, IL",Filled
+P00244,JP004,Senior Manager,Human Resources,6,1,Exempt,D004,"Dallas, TX",Filled
+P00245,JP005,Analyst II,Technology,6,1,Exempt,D005,"Denver, CO",Filled
+P00246,JP006,Specialist,Operations,9,1,Non-Exempt,D006,"Orlando, FL",Filled
+P00247,JP007,Senior Analyst,Customer Experience,7,1,Exempt,D007,Remote-US,Filled
+P00248,JP008,Director,Sales,7,1,Exempt,D008,"Atlanta, GA",Filled
+P00249,JP009,Senior Analyst,Marketing,7,1,Exempt,D009,"Chicago, IL",Filled
+P00250,JP010,Analyst I,Product,5,1,Exempt,D010,"Dallas, TX",Filled
+P00251,JP011,Specialist,Analytics,9,1,Non-Exempt,D011,"Denver, CO",Filled
+P00252,JP012,Specialist,Compliance,9,1,Non-Exempt,D012,"Orlando, FL",Filled
+P00253,JP013,Manager,Programs,5,1,Exempt,D001,Remote-US,Filled
+P00254,JP014,Specialist,Finance,9,1,Non-Exempt,D002,"Atlanta, GA",Filled
+P00255,JP015,Manager,Human Resources,5,0.5,Exempt,D003,"Chicago, IL",Filled
+P00256,JP016,Coordinator,Technology,8,1,Non-Exempt,D004,"Dallas, TX",Filled
+P00257,JP017,Specialist,Operations,9,1,Non-Exempt,D005,"Denver, CO",Filled
+P00258,JP018,Specialist,Customer Experience,9,1,Non-Exempt,D006,"Orlando, FL",Filled
+P00259,JP019,Manager,Sales,5,1,Exempt,D007,Remote-US,Filled
+P00260,JP020,Senior Analyst,Marketing,7,1,Exempt,D008,"Atlanta, GA",Filled
+P00261,JP021,Analyst I,Product,5,1,Exempt,D009,"Chicago, IL",Filled
+P00262,JP022,Director,Analytics,7,1,Exempt,D010,"Dallas, TX",Filled
+P00263,JP023,Senior Manager,Compliance,6,1,Exempt,D011,"Denver, CO",Filled
+P00264,JP024,Senior Analyst,Programs,7,1,Exempt,D012,"Orlando, FL",Filled
+P00265,JP025,Analyst I,Finance,5,1,Exempt,D001,Remote-US,Filled
+P00266,JP026,Manager,Human Resources,5,1,Exempt,D002,"Atlanta, GA",Filled
+P00267,JP027,Director,Technology,7,1,Exempt,D003,"Chicago, IL",Filled
+P00268,JP028,Director,Operations,7,1,Exempt,D004,"Dallas, TX",Filled
+P00269,JP029,Senior Manager,Customer Experience,6,1,Exempt,D005,"Denver, CO",Filled
+P00270,JP030,Senior Analyst,Sales,7,1,Exempt,D006,"Orlando, FL",Filled
